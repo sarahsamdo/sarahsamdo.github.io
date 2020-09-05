@@ -2,4 +2,4 @@
 title: What is Data? Hands-on Activity
 layout: post
 ---
-Post
+My thoughts on the effectivess of different data visualizations.
