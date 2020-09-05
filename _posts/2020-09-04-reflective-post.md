@@ -2,4 +2,4 @@
 title: What is Data? Reflection
 layout: post
 ---
-Post
+My reflection on "What is Data?"
