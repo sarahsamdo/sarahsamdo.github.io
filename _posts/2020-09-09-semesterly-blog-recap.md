@@ -1,3 +1,9 @@
+---
+title: What is Data? Reflection
+layout: post
+categories:
+- recap
+---
 This is my recap of the blogs posted in Week 3. 
 
 [Kailey perfectly sums up what is data](https://kmaclin17.github.io/2020/09/04/slug.html): **Data is scalar and compound, it can be numbers and words and pictures, and more.** 
