@@ -1,5 +1,5 @@
 ---
-title: What is Data? Reflection
+title: Sarah's Semesterly Recap, September 9th, 2020
 layout: post
 categories:
 - recap
