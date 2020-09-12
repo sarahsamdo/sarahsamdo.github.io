@@ -13,6 +13,7 @@ The page source of this web page can be viewed by pressing the right mouse butto
  
 The beginning of the page source starts with "<html lang=”en-US”>". As such, the page source is displayed in HTML, and as specified, in US English. 
 The paragraphs of the article can also be seen in the page source stored as "<p>". The pictures in the article are stored as "<figure>". There are also a number of "<a>" tags for the links displayed as icons and tabs on the web page. I do not have the requisite background to critique improvements in the HTML document. However, if the code for this document was editable, then the person in charge of the website could make the necessary changes in the code and have the changes show up on their web page. 
+ 
+The article itself addresses the importance of files, in the context of digital forensics. The data stored in computers can be analyzed to verify and provide evidence for criminal cases. It is possible to check the deleted dates of files or when they were accessed, to pull times, and to check whether something is being written at a certain time. 
 
-The article itself addresses importance of files.
 
