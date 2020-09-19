@@ -28,12 +28,6 @@
       </div>
     </header>
 
-    <div class="container">
-      <section id="main_content">
-        {{ content }}
-      </section>
-    </div>
-  
 	  <nav>
 		<ul>
 			<li><a href="/about/site.html">About This Site</a></li>
@@ -42,6 +36,12 @@
 		</ul>
 	  </nav>
       {{ content }}
+	  
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
 	  
     {% if site.google_analytics %}
       <script>
