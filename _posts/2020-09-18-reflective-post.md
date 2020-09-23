@@ -6,7 +6,7 @@ My reflection on "What is Markup?"
 
 HTML is a commonly used markup language. This week’s reading explored another language called Markdown. Markup is, to put it briefly, the general formatting of a document. HTML and Markdown are two markup languages that have different ways of “marking up” a document, as in they have different ways to process and present documents. It seems odd and counterintuitive that a markup language is called Markdown. In actuality, looking at the concept of Markdown can ease that confusion. The concept behind Markdown is that the language is simpler to write in, so the formatting of the documents would require less complicated markups. 
 
-This article here(https://www.markdownguide.org/getting-started) is a guide for getting started with Markdown and introducing its various applications. Using my Google Chrome browser, I can press ctrl + U or view page source and the HTML document for the page will show up in another tab.
+[This article here](https://www.markdownguide.org/getting-started) is a guide for getting started with Markdown and introducing its various applications. Using my Google Chrome browser, I can press ctrl + U or view page source and the HTML document for the page will show up in another tab.
 
 Comparing the images shown in the article for the Markdown format to the HTML code, Markdown is significantly easier on the eyes because of its simplicity in formatting. Some advantages to Markdown is that the language is typically converted to display as HTML, which is a common markup language most people would be able to understand, so it does not require one to write in the HTML language in order to develop and display web applications.
 
