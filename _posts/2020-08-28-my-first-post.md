@@ -1,7 +1,8 @@
 ---
 layout: post
 title: My First Post
-categories: activity
+categories: 
+- activity
 ---
 
 This is my **first post**.
