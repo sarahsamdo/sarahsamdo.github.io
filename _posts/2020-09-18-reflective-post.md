@@ -1,6 +1,8 @@
 ---
 title: What is Markup? Reflection
 layout: post
+categories:
+- recap
 ---
 My reflection on "What is Markup?"
 
