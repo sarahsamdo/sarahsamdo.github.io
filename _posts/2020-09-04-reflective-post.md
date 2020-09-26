@@ -1,6 +1,8 @@
 ---
 title: What is Data? Reflection
 layout: post
+categories:
+- recap
 ---
 My reflection on "What is Data?"
 
