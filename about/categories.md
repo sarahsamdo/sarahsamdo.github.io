@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Categories
 ---
 <h1>Posts by Categories</h1>
 
