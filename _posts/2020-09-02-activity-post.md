@@ -1,7 +1,8 @@
 ---
 title: What is Data? Hands-on Activity
 layout: post
-categories: activity
+categories: 
+- activity
 ---
 My thoughts on the effectivess of three different data visualizations.
 
