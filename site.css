@@ -2,5 +2,8 @@
 	margin: auto;
 	max-width: 960px;
 	width: 100%;
-	color: #DC143C
+	color: #DC143C;
+}
+.header {
+	color: #DC143C;
 }
