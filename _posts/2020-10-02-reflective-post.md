@@ -7,7 +7,7 @@ categories:
 This is my reflection on "What is Style?"
 
  
-I mentioned before that HTML and Markdown are two mark-up languages used for web development. While it is important to have languages that define what a piece of data is and languages that can do the job with a more simplified implementation, there is a need for languages that actually deal with the appearance of a web site. This week we covered the language Cascading Style Sheets, or CSS, which allows the manipulation of the web site's appearance. The style of a web
+I mentioned before that HTML and Markdown are two mark-up languages used for web development. While it is important to have languages that define what a piece of data is and languages that can do the job with a more simplified implementation, there is a need for languages that actually deal with the appearance of a web site. This week we covered the language Cascading Style Sheets, or CSS, which allows the manipulation of the web site's appearance. The style of a web page is best developed using CSS because of the limitations of HTML and Markdown. 
  
 I will be analyzing this [web page](https://www.w3schools.com/Css/). This web site contains information on the CSS language such as its applications, how to use it, and information on other languages. 
  
@@ -21,7 +21,9 @@ line-height:50px;
 overflow:hidden;
 z-index:2;
 }</code>
-This text is only a sample of what else is displayed in the page source. But what we can derive from this text, is that the CSS language was used to change specific dimensions and colors for the display on the web page. 
+This text is only a sample of what else is displayed in the page source. But what we can derive from this text, is that the CSS language was used to change specific dimensions and colors for the display on the web page.
+
+Once there is a base site, the appearance of it using just HTML or Markdown is often times not going to be aestheically pleasing. This is where CSS comes in. Through CSS, anything having to do with the site's appearance can be changed. For example, the font may not be what you wanted, so you would go in and change it with CSS. Not only the font, but the colors of the text, the bolding or italicizing of the text, and even the placement of the text.
  
 It is not a sin to use different languages in a project when a certain language falls short for the purposes you need it for. It is this very reason why having knowledge of multiple languages is necessary. HTML and Markdown are languages that may be able to change a few things on the actual display for a web site, but CSS is going to be that language best suited for this purpose. 
 
