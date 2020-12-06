@@ -1,5 +1,5 @@
 ---
-title: Final Project: Reflection
+title: Final Project Reflection
 layout: post
 categories:
 - recap
